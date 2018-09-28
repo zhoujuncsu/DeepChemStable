@@ -19,6 +19,6 @@ The predictions are saved in the file `results.csv`. </br>
 Examples: `>python predict.py test.csv 5` </br>
 
 Data file format: </br>
-datafile should be CSV file. </br>
-The header must be "substance_id, smiles, label". </br>
-In "label" column, use "1" for unstable, "0" for stable. </br>
+&nbsp;&nbsp;datafile should be CSV file. </br>
+&nbsp;&nbsp;The header must be "substance_id, smiles, label". </br>
+&nbsp;&nbsp;In "label" column, use "1" for unstable, "0" for stable. </br>
