@@ -5,9 +5,9 @@ DeepChemStable: chemical stability prediction using attention-based graph convol
 Python 3.6.3 </br>
 Tensorflow 1.1.0 </br>
 RDkit 2018.03.4 </br>
-autograd 1.2 </br>
-numpy 1.14.2 </br>
-pandas 0.23.4 </br>
+Autograd 1.2 </br>
+Numpy 1.14.2 </br>
+Pandas 0.23.4 </br>
 
 ## Model
 The trained model weights are stored in `fingerprint_variables.bin`, `prediction_variables.bin`. </br>
