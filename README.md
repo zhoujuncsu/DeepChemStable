@@ -22,4 +22,4 @@ Examples: `>python predict.py test.csv 5` </br>
 Data file format: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;Datafile should be CSV file; </br>
 &nbsp;&nbsp;&nbsp;&nbsp;The header must be "substance_id, smiles, label"; </br>
-&nbsp;&nbsp;&nbsp;&nbsp;In "label" column, use "1" for all compounds so the visualization can implement. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;In "label" column, use "0" for all compounds so the visualization can implement. </br>
