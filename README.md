@@ -13,6 +13,7 @@ Pandas 0.23.4 </br>
 The trained model weights are stored in `fingerprint_variables.bin`, `prediction_variables.bin`. </br>
 Use the `predict.py` to predict. </br>
 The predictions are saved in the file `results.csv`. </br>
+The visualization of predictive unstable compounds with hightlighted unstable fragment are saved in the folder `figures/`. </br>
 
 ## Usage
 `>python predict.py *yourfilepath* *amount*` </br>
