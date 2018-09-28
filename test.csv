@@ -1,0 +1,9 @@
+substance_id,smiles,label
+C06693,c1(nc2c([nH]1)ccc(NC(=O)C1CCCCC1)c2)c1cc(NC(=O)C2CCCCC2)ccc1,0
+C04697,c12c(c(=O)n(c(=O)n2C)C)n(c(n1)Br)C/C=C/C,0
+C04847,o1c(nnc1S)c1cc(N)ccc1,0
+C00430,C(=N\c1ccccc1)(/C(=S)N)\Nc1ccccc1,0
+C05137,c\1(=N/C(=O)C)/sc(nn1c1ccccc1)C(=O)c1ccc(cc1)Cl,0
+C05666,N1(N=C2C(C1c1occc1)CCC/C/2=C\c1occc1)C(=O)C,0
+C05079,N1(C(CC(=N1)c1ccncc1)(C(F)(F)F)O)C(=O)OCC,0
+C01509,N1(Cc2c3c(ccc2O)cccc3)C2CC(C1)(CC(C2)(C)C)C,0
